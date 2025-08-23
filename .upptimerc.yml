@@ -1,13 +1,12 @@
 # Change these first
-owner: hellstackdev # Your GitHub organization or username, where this repository lives
-repo: Uptime-Monitor # The name of this repository
+owner: $OWNER # Your GitHub organization or username, where this repository lives
+repo: $REPO # The name of this repository
 
 sites:
   - name: hellstack.dev
     url: https://hellstack.dev/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-
+assignees: # Users to assign downtime issues (optional)
+  - $OWNER
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
