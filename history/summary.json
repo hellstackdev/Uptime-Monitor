@@ -4,19 +4,19 @@
     "url": "https://hellstack.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/hellstack.dev.ico",
     "slug": "hellstack-dev",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 777,
-    "timeDay": 939,
+    "timeDay": 946,
     "timeWeek": 777,
     "timeMonth": 777,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-08-26": 44,
+      "2025-08-26": 32,
       "2025-08-25": 3
     }
   }
