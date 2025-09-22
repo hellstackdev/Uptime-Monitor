@@ -10,7 +10,6 @@
 name: Labeler
 on:
   pull_request:
-    types: [opened, synchronize, reopened, edited, labeled, unlabeled]
   workflow_dispatch:
 
 jobs:
